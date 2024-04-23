@@ -1,4 +1,4 @@
-# EX-05 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+# EX-06 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 ### Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
 ### Theory and Procedure:
